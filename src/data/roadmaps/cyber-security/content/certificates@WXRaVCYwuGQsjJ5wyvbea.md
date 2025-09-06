@@ -8,3 +8,5 @@ Learn more from the following resources:
 
 - [@article@What is an SSL Certificate?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-an-ssl-certificate/)
 - [@article@What is a Certificate Authority](https://www.ssl.com/article/what-is-a-certificate-authority-ca/)
+ .[@video@what is Certificate Authority]( https://www.youtube.com/watch?v=cLa94BZH_9s )
+- .[@video@Certificate](https://www.youtube.com/watch?v=kAaIYRJoJkc)
