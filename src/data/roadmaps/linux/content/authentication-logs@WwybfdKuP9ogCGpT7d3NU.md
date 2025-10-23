@@ -10,3 +10,4 @@ Visit the following resources to learn more:
 
 - [@article@Monitoring Linux Authentication Logs](https://betterstack.com/community/guides/logging/monitoring-linux-auth-logs/)
 - [@article@How to Check Linux Login History - Linux Handbook](https://linuxhandbook.com/linux-login-history/)
+- [@vedio@Linux Authentication Logs](https://www.youtube.com/watch?v=H4LSiY7I4ps)
